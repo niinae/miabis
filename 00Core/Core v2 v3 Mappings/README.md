@@ -2,7 +2,7 @@
 
 Here can be found tables composed to help any implementations already working with MIABIS Core v2 to uplift the vocabulary utilised into Core v3.
 Each of the entities are in their own tables
-* Core v2 Biobank to Core v3 Biobank
+* Core v2 Biobank to Core v3 Biobank `miabis/00Core/Core v2 v3 Mappings/Core v2 to Core v3 Biobank.md`
 * Core v2 Sample Collection to Core v3 Collection
 * Core v2 Study to Core v3 Research resource
 
